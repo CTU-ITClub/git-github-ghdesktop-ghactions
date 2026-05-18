@@ -1,0 +1,7 @@
+Git la he thong quan ly phien ban.
+Git giup luu lich su thay doi source code. 
+
+Git workflow:
+- Working copy
+- Staging area
+- Repository
