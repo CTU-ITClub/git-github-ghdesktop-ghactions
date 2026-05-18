@@ -1,0 +1,20 @@
+=== CÁCH HOẠT ĐỘNG ===
+
+ [▶/||] Nút Phát / Dừng
+ - Bấm vào để video chạy. 
+ - Bấm lại để tạm dừng.
+
+ [███░░] Thanh tua video
+ - Tự động trượt đi khi video đang chạy. 
+ - Bấm vào vị trí bất kỳ trên thanh để tua đến đoạn đó.
+
+ [🔊] Loa
+ - Bấm vào để tắt tiếng.
+ - Bấm lại để mở tiếng.
+
+ [⚙️] Cài đặt
+ - Bấm vào để chọn chất lượng (nét hay mờ) và tốc độ (nhanh hay chậm).
+
+ [⛶] Phóng to
+ - Bấm vào để video bung đầy màn hình. 
+ - Bấm lại để thu nhỏ như cũ.
